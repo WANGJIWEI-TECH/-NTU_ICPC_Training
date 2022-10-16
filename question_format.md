@@ -1,5 +1,5 @@
 ## []()
----
+
 ### Accepted solution
 
 ```C++

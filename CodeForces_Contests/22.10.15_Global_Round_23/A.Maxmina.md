@@ -1,5 +1,5 @@
 ## [A.Maxmina](https://codeforces.com/contest/1746/problem/A)
----
+
 ### Accepted solution
 
 ```C++
