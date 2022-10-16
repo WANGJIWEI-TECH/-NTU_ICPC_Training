@@ -1,6 +1,6 @@
 # Debug-04. What to do when we encounter test error?
 
-We will have test error such as [C. Circuit Board Design](https://codeforces.com/gym/102483/problem/C) for [2018-2019 ICPC Northwestern European Regional Programming Contest (NWERC 2018)] (https://codeforces.com/gym/102483)
+We will have test error such as [C. Circuit Board Design](https://codeforces.com/gym/102483/problem/C) for [2018-2019 ICPC Northwestern European Regional Programming Contest (NWERC 2018)](https://codeforces.com/gym/102483)
 
 The code with error on test 3 is shown:
 ```C++
